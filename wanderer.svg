@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" fill="none" stroke="#8b7355" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round">
+
+  <!-- Distant mountain peaks, far background -->
+  <polyline points="0,320 30,290 55,310 80,270 110,295 140,255 165,278 190,248 210,265 240,238 265,258 295,230 320,252 350,225 375,242 400,220" opacity="0.18"/>
+
+  <!-- Mid mountains, layered -->
+  <polyline points="0,360 25,335 60,355 90,325 120,345 155,308 180,330 210,305 240,325 275,295 310,318 345,292 380,312 400,295" opacity="0.22"/>
+  <polyline points="0,390 20,372 50,385 80,365 115,380 150,355 185,370 215,348 250,365 285,342 315,358 355,338 390,352 400,345" opacity="0.25"/>
+
+  <!-- Sea of fog — sweeping horizontal mist bands -->
+  <path d="M0,400 Q60,392 120,398 Q180,404 240,396 Q300,388 360,395 Q385,397 400,394" opacity="0.13"/>
+  <path d="M0,412 Q50,406 100,410 Q160,415 220,408 Q280,401 340,407 Q375,410 400,406" opacity="0.11"/>
+  <path d="M0,422 Q80,418 160,420 Q240,422 320,417 Q365,414 400,416" opacity="0.10"/>
+  <path d="M0,432 Q70,428 140,431 Q210,434 280,429 Q340,425 400,427" opacity="0.09"/>
+  <path d="M0,445 Q90,440 180,443 Q270,446 360,441 Q385,439 400,440" opacity="0.08"/>
+  <path d="M0,460 Q100,455 200,458 Q300,461 400,456" opacity="0.07"/>
+
+  <!-- Foreground rocky outcrop / cliff edge -->
+  <path d="M100,520 L108,510 L115,515 L118,505 L125,500 L130,508 L140,495 L152,498 L158,490 L170,488 L178,494 L185,485 L195,482 L200,488 L210,480 L220,483 L228,477 L238,480 L245,472 L258,470 L265,476 L272,468 L282,471 L290,465 L300,468" opacity="0.35" stroke-width="1"/>
+
+  <!-- Ground / standing rock beneath figure -->
+  <path d="M172,488 Q185,484 195,482 Q205,479 215,481 Q225,483 232,479 Q238,477 245,472" opacity="0.3" stroke-width="0.7"/>
+
+  <!-- Walking stick / cane -->
+  <line x1="210" y1="340" x2="222" y2="465" stroke-width="1.1" opacity="0.55"/>
+  <!-- Stick tip -->
+  <line x1="222" y1="465" x2="225" y2="467" stroke-width="1" opacity="0.5"/>
+
+  <!-- Coat / cloak flowing - left side -->
+  <path d="M193,310 C185,330 178,355 175,380 C172,400 174,420 176,440 C177,450 178,458 180,465 C178,468 174,472 174,472" stroke-width="1.1" opacity="0.6"/>
+
+  <!-- Coat / cloak flowing - right side -->
+  <path d="M207,308 C215,328 220,350 222,375 C224,398 222,418 220,438 C219,450 218,458 216,465" stroke-width="1.1" opacity="0.6"/>
+
+  <!-- Coat bottom hem -->
+  <path d="M174,472 Q185,476 195,474 Q205,472 216,465" stroke-width="0.9" opacity="0.55"/>
+
+  <!-- Coat inner folds -->
+  <path d="M196,320 C194,345 192,370 191,400 C190,425 191,448 192,465" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Wind-swept coat tail, right -->
+  <path d="M220,400 C228,408 232,418 230,430 C228,440 222,448 218,455" stroke-width="0.7" opacity="0.35"/>
+
+  <!-- Left arm, tucked -->
+  <path d="M188,340 C183,348 180,355 181,362" stroke-width="0.9" opacity="0.45"/>
+
+  <!-- Right arm, holding stick -->
+  <path d="M208,338 C212,345 214,352 213,358" stroke-width="0.9" opacity="0.45"/>
+
+  <!-- Torso / jacket shoulders -->
+  <path d="M188,310 C188,316 187,322 188,330 C189,338 192,344 196,348 C200,352 204,350 207,345 C210,340 210,332 209,322 C208,314 207,310 207,310" stroke-width="0.9" opacity="0.55"/>
+
+  <!-- Neck -->
+  <line x1="197" y1="300" x2="197" y2="310" stroke-width="1.2" opacity="0.6"/>
+
+  <!-- Head - outline -->
+  <ellipse cx="197" cy="291" rx="10" ry="12" stroke-width="0.9" opacity="0.6"/>
+
+  <!-- Hair, windswept right -->
+  <path d="M200,280 C206,277 211,278 213,282 C214,284 212,286 210,285" stroke-width="0.7" opacity="0.45"/>
+  <path d="M202,279 C207,274 214,274 216,279" stroke-width="0.6" opacity="0.35"/>
+
+  <!-- Collar / cravat -->
+  <path d="M191,310 Q197,314 203,310" stroke-width="0.8" opacity="0.4"/>
+
+</svg>
