@@ -290,3 +290,8 @@ footer p {
   margin: 1rem 0 2rem;
   letter-spacing: 0.5em;
 }
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
